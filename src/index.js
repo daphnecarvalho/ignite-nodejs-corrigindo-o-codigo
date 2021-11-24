@@ -5,7 +5,7 @@ const { v4: uuid } = require("uuid");
 const app = express();
 
 app.use(express.json());
-cd
+
 const repositories = [];
 
 function checksExistsRepository(request, response, next) {
