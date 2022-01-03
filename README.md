@@ -32,15 +32,6 @@ http://localhost:3333
   yarn install
 ```
 
-## Project commands
-
-### Prepare project
-
-```bash
-  # Install dependencies
-  yarn install
-```
-
 ### Run project
 
 ```bash
